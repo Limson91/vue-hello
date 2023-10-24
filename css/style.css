@@ -10,4 +10,13 @@ img {
 
 .blue {
     color: lightblue;
+    text-align: center;
+}
+
+.bg-color {
+    background-color: blue;
+}
+
+.padding {
+    padding: 25px;
 }

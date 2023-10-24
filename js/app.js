@@ -5,7 +5,7 @@ createApp({
     {
         return {
             message: "Hello World!!",
-            color: "blue",
+            color: "blue padding bg-color",
             img: "img/P8200368.jpg",
             imageContainer: "size"
         }
